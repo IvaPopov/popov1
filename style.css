@@ -31,4 +31,5 @@ a:hover #img1, a:focus #img1  {
 }	
 
 a:hover #img2, a:focus #img2  {
-	transform: scale(1.5) rotate(5deg);
+	transform: scale(1.5) rotate(-5deg);
+}
