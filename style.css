@@ -28,4 +28,4 @@ a:hover img {
 
 a:hover #img1, a:focus #img1  {
 	transform: scale(1.5) rotate(-3deg);
-	
+}	
