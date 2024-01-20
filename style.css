@@ -1,45 +1,11 @@
-ul {
- list-style-type: none; padding: 0;
-	margin: 0;
-}
-
-li { float: left; margin-right: 10px;
-}
-
-li:last-of-type {
- margin-right: 0;
-}
-
-
-a { display: block;
-}
-
-
-img { width: 600px; height: 600px; box-shadow: 2px 2px 2px rgba(0,0,0,.4);
-
-transition: transform .3s ease-in-out; 
-} 
-
-
-
-a:hover img {
-	box-shadow: 6px 6px 6px rgba(0,0,0,.3);
-}
-
-a:hover #img1, a:focus #img1  {
-	transform: scale(1.5) rotate(-3deg);
-}	
-
-a:hover #img2, a:focus #img2  {
-	transform: scale(1.5) rotate(-5deg);
-}
 body
 {
 margin:0;
 display:flex;
+
 }
 #canvas_plot
 {
 margin:auto;
-background:#666666;
+background:#dddddd;
 }
