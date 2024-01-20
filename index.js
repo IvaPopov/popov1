@@ -60,7 +60,7 @@ ctx.stroke();
 
 ctx.fillRect(0,0,50,300);
 ctx.fillStyle='#0000ff';
-ctx.fillRect(200,500,200,200);
+ctx.fillRect(200,500,300,400);
 ctx.stroke();
 
 
