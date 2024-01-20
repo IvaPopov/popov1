@@ -58,6 +58,15 @@ ctx.fillStyle='#0000ff';
 ctx.fillRect(100,100,200,200);
 ctx.stroke();
 
+ctx.fillRect(0,0,100,100);
+ctx.fillStyle='#0000ff';
+ctx.fillRect(100,100,200,200);
+ctx.stroke();
+
+ctx.fillRect(0,0,100,100);
+ctx.fillStyle='#0000ff';
+ctx.fillRect(100,100,200,200);
+ctx.stroke();
 
 
 
