@@ -74,11 +74,12 @@ ctx.moveTo(320,300);
 ctx.lineTo(420,400);
 ctx.stroke();
 
-ctx.fillText('Привет',300,400);
+
 ctx.fillRect(300,400,2,2);
 ctx.font='30px Arial';
 ctx.textAlign='left';
 ctx.textBaseLine='top';
+ctx.fillText('Привет',300,400);
 ctx.stroke();
 
 
