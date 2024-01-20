@@ -76,7 +76,7 @@ ctx.stroke();
 
 ctx.fillStyle='#ff0000';
 ctx.fillRect(400,500,3,3);
-ctx.font='30px Arial';
+ctx.font='50px Arial';
 ctx.textAlign='right';
 ctx.textBaseLine='top';
 ctx.fillText('Привет',400,500);
