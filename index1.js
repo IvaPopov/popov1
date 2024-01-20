@@ -16,8 +16,8 @@ ctx.moveTo(320,300);
 ctx.lineTo(420,400);
 ctx.stroke();
 
-ctx.fillRect(300,400,2,2);
+ctx.fillRect(100,200,1,1);
 ctx.font='36px Arial';
 ctx.textAlign='center';
 ctx.textBaseline='top';
-ctx.fillText('Text',300,400);
+ctx.fillText('Text',100,200);
