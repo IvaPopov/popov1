@@ -54,7 +54,7 @@ ctx.fillRect(x*scaleX+xAxis,yAxis-scaleY*y,4,4);
 }
 
 ctx.fillRect(0,0,100,100);
-ctx.fillStyle='#0000ff';
+ctx.fillStyle='#FF0000';
 ctx.fillRect(100,100,200,200);
 ctx.stroke();
 
