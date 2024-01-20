@@ -79,7 +79,7 @@ ctx.fillRect(400,500,3,3);
 ctx.font='50px Arial';
 ctx.textAlign='right';
 ctx.textBaseLine='top';
-ctx.fillText('Привет',400,500);
+ctx.fillText('Привет',200,300);
 ctx.stroke();
 
 
