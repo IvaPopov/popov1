@@ -82,6 +82,14 @@ ctx.textBaseLine='top';
 ctx.fillText('Привет',200,300);
 ctx.stroke();
 
+var c=document.getElementById("myCanvas");
+var ctx=c.getContext("2d");
+ctx.shadowBlur=20;
+ctx.shadowColor="black";
+ctx.fillStyle="red";
+ctx.fillRect(20,20,100,80);
+
+
 
 
 
